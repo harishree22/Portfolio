@@ -38,4 +38,4 @@ This is the very site you're looking at!
 
 This project is deployed using **GitHub Pages**.  
 You can visit it here:  
-➡️ `https://harishree22.github.io/portfolio/` *(Update this URL after deploying.)*
+➡️ `https://harishree22.github.io/portfolio/`
